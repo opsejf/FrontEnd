@@ -1,0 +1,35 @@
+.employee {
+    border-radius: 150%;
+    width: 25%;
+}
+
+.banner {
+    margin-top: 30px;
+    height: 300px;
+    background-color: #292950;
+    color: white;
+}
+
+.sectionPerson:hover{
+    background-color: #00DEB6;
+    color: white;
+    transition-duration: 1s;
+}
+
+
+@media screen and (max-width: 768px) {
+    .banner {
+        font-size: 0.75em;
+        /* height: 300px; */
+        /* overflow-y: auto; */
+        width: 100%;
+
+    }
+
+    .sectionPerson:hover{
+        background-color: #00DEB6;
+        color: white;
+        transition-duration: 1s;
+    }
+    
+}

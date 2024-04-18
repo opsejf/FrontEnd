@@ -1,0 +1,14 @@
+/* CSS styling for both the 'Buyer' and 'Seller' tables. */
+div {
+    width: 100%;
+}
+table {
+    width: 100%;
+}
+th {
+    text-align: left;
+    padding-bottom: 5px;
+}
+tr {
+    
+}

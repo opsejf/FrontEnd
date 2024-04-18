@@ -1,0 +1,108 @@
+[
+    {
+        "seller_id" : 1,
+        "firstName" : "Diane",
+        "lastName" : "Bond",
+        "email" : "D.Bond34@gmail.com",
+        "telephone" : "01282 439567"
+    },
+    {
+        "seller_id" : 2,
+        "firstName" : "Michelle",
+        "lastName" : "Avery",
+        "email" : "M.Avery687@gmail.com",
+        "telephone" : "0121 771 0639"
+    },
+    {
+        "seller_id" : 3,
+        "firstName" :"Joshua",
+        "lastName" : "Hamilton",
+        "email" : "J.Hamilton7438@gmail.com",
+        "telephone" : "01273 476707"
+    },
+    {
+        "seller_id" : 4,
+        "firstName" : "Trevor",
+        "lastName" : "Mackenzie",
+        "email" : "T.Mackenzie48@gmail.com",
+        "telephone" : "01274 729141"
+    },
+    {
+        "seller_id" : 5,
+        "firstName" : "Alexander",
+        "lastName" : "Ross",
+        "email" : "A.Ross423@gmail.com",
+        "telephone" : "0121 706 8101"
+    },
+    {
+        "seller_id" : 6,
+        "firstName" : "Dan",
+        "lastName" : "Simpson",
+        "email" : "D.Simpson647@gmail.com",
+        "telephone" : "01323 761372"
+    },
+    {
+        "seller_id" : 7,
+        "firstName" : "Eric",
+        "lastName" : "Walker",
+        "email" : "E.Walker33@gmail.com",
+        "telephone" : "0131 516 2690"
+    },
+    {
+        "seller_id" : 8,
+        "firstName" : "James",
+        "lastName" : "King",
+        "email" : "J.King769@gmail.com",
+        "telephone" : "01273 911149"
+    },
+    {
+        "seller_id" : 9,
+        "firstName" : "Nicholas",
+        "lastName" : "Gray",
+        "email" : "N.Gray43gmail.com",
+        "telephone" : "01462 892367"
+    },
+    {
+        "seller_id" : 10,
+        "firstName" : "Zoe",
+        "lastName" : "Hill",
+        "email" : "zoe-Hill78gmail.com",
+        "telephone" : "01297 445008"
+    },
+    {
+        "seller_id" : 11,
+        "firstName" : "Christopher",
+        "lastName" : "Duncan",
+        "email" : "Chris.Duncan74gmail.com",
+        "telephone" : "0113 230 0600"
+    },
+    {
+        "seller_id" : 12,
+        "firstName" : "Leah",
+        "lastName" : "Davies",
+        "email" : "L.Davies63gmail.com",
+        "telephone" : "0844 477 0926"
+    },
+    {
+        "seller_id" : 13,
+        "firstName" : "Grace",
+        "lastName" : "Butler",
+        "email" : "Grace-Butler34gmail.com",
+        "telephone" : "0845 309 6369"
+    },
+    {
+        "seller_id" : 14,
+        "firstName" : "Elizabeth",
+        "lastName" : "Baker",
+        "email" : "Liz.Baker455@gmail.com",
+        "telephone" : "01324 486733"
+    },
+    {
+        "seller_id" : 15,
+        "firstName" : "Edward",
+        "lastName" : "Abraham",
+        "email" : "ed.Abraham31@gmail.com",
+        "telephone" : "01246 277188"
+    }
+
+]

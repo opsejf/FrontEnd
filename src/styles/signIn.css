@@ -1,0 +1,19 @@
+.wrapper-sign-in {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    border-width: 3px;
+    border-color: #00DEB6;
+    border-style: solid;
+    margin: 0;
+    margin-bottom: 30px;
+    width: 100%;
+    max-width: -webkit-fill-available;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.sign-in-fields {
+
+}

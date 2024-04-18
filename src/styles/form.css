@@ -1,0 +1,51 @@
+/* CSS for the forms on the website */
+
+.wrapper {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+    border-width: 3px;
+    border-color: #00DEB6;
+    border-style: solid;
+    margin: 0;
+    margin-bottom: 30px;
+    width: 100%;
+    max-width: -webkit-fill-available;
+}
+
+.title {
+    text-decoration: bold;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.labels {
+    color: black;
+}
+
+.fields {
+    background-color: white;
+    border-color: #e1f0da;
+    border-width: 1px;
+    border-radius: 10px;
+    padding-left: 1%;
+}
+
+
+
+.submit {
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    display: flex;
+    justify-content: center;
+}
+
+#form1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}

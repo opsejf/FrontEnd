@@ -1,0 +1,677 @@
+{
+  "buyers": [
+    {
+      "ID": 1,
+      "firstName": "Sarah",
+      "lastName": "Smith",
+      "email": "sarah.smith@gmail.com",
+      "telephone": "07562946283",
+      "id": "8c9c"
+    },
+    {
+      "ID": 2,
+      "firstName": "Bob",
+      "lastName": "Grant",
+      "email": "bob.grant@gmail.com",
+      "telephone": "07354678982",
+      "id": "6ef9"
+    },
+    {
+      "ID": 3,
+      "firstName": "Kate",
+      "lastName": "Sanders",
+      "email": "kate.sanders@gmail.com",
+      "telephone": "07394517592",
+      "id": "c729"
+    },
+    {
+      "ID": 4,
+      "firstName": "Niall",
+      "lastName": "Anderson",
+      "email": "niall123@hotmail.com",
+      "telephone": "07561325497",
+      "id": "7327"
+    },
+    {
+      "ID": 5,
+      "firstName": "Monica",
+      "lastName": "Harrison",
+      "email": "monicaharrison@outlook.com",
+      "telephone": "07364583663",
+      "id": "3535"
+    },
+    {
+      "ID": 6,
+      "firstName": "Steve",
+      "lastName": "Barkley",
+      "email": "stevedog@gmail.com",
+      "telephone": "07586973614",
+      "id": "47c4"
+    },
+    {
+      "ID": 7,
+      "firstName": "Gregg",
+      "lastName": "Schmitt",
+      "email": "gregg9080@outlook.com",
+      "telephone": "07883364759",
+      "id": "c7db"
+    },
+    {
+      "ID": 8,
+      "firstName": "Harry",
+      "lastName": "Plant",
+      "email": "plantharry56@gmail.com",
+      "telephone": "07836471922",
+      "id": "ed29"
+    },
+    {
+      "ID": 9,
+      "firstName": "Henry",
+      "lastName": "David",
+      "email": "henry.david321@gmail.com",
+      "telephone": "07869936210",
+      "id": "2571"
+    },
+    {
+      "ID": 10,
+      "firstName": "Jamie",
+      "lastName": "Baker",
+      "email": "jamie.baker345@outlook.com",
+      "telephone": "07883647192",
+      "id": "fa18"
+    },
+    {
+      "ID": 11,
+      "firstName": "Alice",
+      "lastName": "Scott",
+      "email": "alice123scott@gmail.com",
+      "telephone": "07466244435",
+      "id": "ea96"
+    },
+    {
+      "ID": 12,
+      "firstName": "Emily",
+      "lastName": "Kay",
+      "email": "emilykay7834@gmail.com",
+      "telephone": "07117493776",
+      "id": "b3a1"
+    },
+    {
+      "ID": 13,
+      "firstName": "Frank",
+      "lastName": "Overton",
+      "email": "frankieoverton@hotmail.com",
+      "telephone": "07348562713",
+      "id": "66c2"
+    },
+    {
+      "ID": 14,
+      "firstName": "Kayleigh",
+      "lastName": "Rogan",
+      "email": "kayleighrogan123@gmail.com",
+      "telephone": "07846295825",
+      "id": "8d75"
+    },
+    {
+      "ID": 15,
+      "firstName": "Wallace",
+      "lastName": "Gordon",
+      "email": "wallace123@gmail.com",
+      "telephone": "07418394628",
+      "id": "2295"
+    },
+    {
+      "id": "883e",
+      "ID": 16,
+      "firstName": "Clifford",
+      "lastName": "The Big Red Dog",
+      "email": "cliff@big",
+      "telephone": "123"
+    },
+    {
+      "id": "ba64",
+      "ID": 17,
+      "firstName": "Max",
+      "lastName": "The Dog",
+      "email": "max@dog",
+      "telephone": "12345"
+    },
+    {
+      "id": "4e94",
+      "ID": 18,
+      "firstName": "harry",
+      "lastName": "potter",
+      "email": "l@hogrwa",
+      "telephone": "45678"
+    }
+  ],
+  "sellers": [
+    {
+      "ID": 1,
+      "firstName": "Diane",
+      "lastName": "Bond",
+      "email": "D.Bond34@gmail.com",
+      "telephone": "01282 439567",
+      "id": "22ce"
+    },
+    {
+      "ID": 2,
+      "firstName": "Michelle",
+      "lastName": "Avery",
+      "email": "M.Avery687@gmail.com",
+      "telephone": "0121 771 0639",
+      "id": "6235"
+    },
+    {
+      "ID": 3,
+      "firstName": "Joshua",
+      "lastName": "Hamilton",
+      "email": "J.Hamilton7438@gmail.com",
+      "telephone": "01273 476707",
+      "id": "bc67"
+    },
+    {
+      "ID": 4,
+      "firstName": "Trevor",
+      "lastName": "Mackenzie",
+      "email": "T.Mackenzie48@gmail.com",
+      "telephone": "01274 729141",
+      "id": "8065"
+    },
+    {
+      "ID": 5,
+      "firstName": "Alexander",
+      "lastName": "Ross",
+      "email": "A.Ross423@gmail.com",
+      "telephone": "0121 706 8101",
+      "id": "fce2"
+    },
+    {
+      "ID": 6,
+      "firstName": "Dan",
+      "lastName": "Simpson",
+      "email": "D.Simpson647@gmail.com",
+      "telephone": "01323 761372",
+      "id": "42b4"
+    },
+    {
+      "ID": 7,
+      "firstName": "Eric",
+      "lastName": "Walker",
+      "email": "E.Walker33@gmail.com",
+      "telephone": "0131 516 2690",
+      "id": "c528"
+    },
+    {
+      "ID": 8,
+      "firstName": "James",
+      "lastName": "King",
+      "email": "J.King769@gmail.com",
+      "telephone": "01273 911149",
+      "id": "6842"
+    },
+    {
+      "ID": 9,
+      "firstName": "Nicholas",
+      "lastName": "Gray",
+      "email": "N.Gray43gmail.com",
+      "telephone": "01462 892367",
+      "id": "8e46"
+    },
+    {
+      "ID": 10,
+      "firstName": "Zoe",
+      "lastName": "Hill",
+      "email": "zoe-Hill78gmail.com",
+      "telephone": "01297 445008",
+      "id": "0185"
+    },
+    {
+      "ID": 11,
+      "firstName": "Christopher",
+      "lastName": "Duncan",
+      "email": "Chris.Duncan74gmail.com",
+      "telephone": "0113 230 0600",
+      "id": "fab4"
+    },
+    {
+      "ID": 12,
+      "firstName": "Leah",
+      "lastName": "Davies",
+      "email": "L.Davies63gmail.com",
+      "telephone": "0844 477 0926",
+      "id": "2a41"
+    },
+    {
+      "ID": 13,
+      "firstName": "Grace",
+      "lastName": "Butler",
+      "email": "Grace-Butler34gmail.com",
+      "telephone": "0845 309 6369",
+      "id": "f609"
+    },
+    {
+      "ID": 14,
+      "firstName": "Elizabeth",
+      "lastName": "Baker",
+      "email": "Liz.Baker455@gmail.com",
+      "telephone": "01324 486733",
+      "id": "c7d8"
+    },
+    {
+      "ID": 15,
+      "firstName": "Edward",
+      "lastName": "Abraham",
+      "email": "ed.Abraham31@gmail.com",
+      "telephone": "01246 277188",
+      "id": "18c0"
+    }
+  ],
+  "properties": [
+    {
+      "property_id": 1,
+      "description": "Nestled in the heart of a tranquil forest, this charming cottage offers a serene escape from the hustle and bustle of city life. Featuring rustic decor, a crackling fireplace, and a private deck overlooking a babbling brook, it's the perfect spot for nature lovers seeking relaxation.",
+      "address": {
+        "firstLine": "Bridgford Rd",
+        "city": "Manchester",
+        "postcode": "NG2 6AG"
+      },
+      "img": {
+        "thumbnail": "https://media.rightmove.co.uk/46k/45311/67250766/45311_DRH190225_IMG_01_0000.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 2000000,
+      "type": "Detached",
+      "bedrooms": 7,
+      "bathrooms": 5,
+      "garden": true,
+      "timeUploaded": "Tuesday, 13 February 2024 at 07:21:53",
+      "id": "7101"
+    },
+    {
+      "property_id": 2,
+      "description": "Located in a vibrant downtown neighborhood, this sleek loft boasts floor-to-ceiling windows, exposed brick walls, and industrial-chic furnishings. With its open-concept design and rooftop patio with skyline views, it's ideal for cosmopolitan professionals seeking a stylish urban oasis.",
+      "address": {
+        "firstLine": "Park Lane",
+        "city": "London",
+        "postcode": "W1K 7TY"
+      },
+      "img": {
+        "thumbnail": "https://i.pinimg.com/originals/e6/75/ff/e675ffd0c79c51b23c899a63d99dccb7.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 3500000,
+      "type": "Terraced",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "garden": false,
+      "timeUploaded": "Tuesday, 13 February 2024 at 07:21:53",
+      "id": "c4ce"
+    },
+    {
+      "property_id": 3,
+      "description": "Perched on a cliff overlooking crystal-clear waters, this luxurious villa offers panoramic ocean views and direct beach access. With spacious living areas, a gourmet kitchen, and a infinity pool, it's an idyllic retreat for discerning travelers seeking coastal elegance.",
+      "address": {
+        "firstLine": "Elm Street",
+        "city": "Manchester",
+        "postcode": "12345"
+      },
+      "img": {
+        "thumbnail": "https://i.pinimg.com/736x/59/33/00/593300d3e9f898e044f0c36d61218ebd.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 150000,
+      "type": "Semi-Detached",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "garden": true,
+      "timeUploaded": "Tuesday, 13 February 2024 at 10:21:53",
+      "id": "8e5d"
+    },
+    {
+      "property_id": 4,
+      "description": " Set amidst rolling hills and meandering country roads, this quaint farmhouse exudes charm and character. With its wraparound porch, flower-filled gardens, and cozy interiors, it's the perfect escape for those craving a simpler way of life.",
+      "address": {
+        "firstLine": "Ocean Avenue",
+        "city": "Liverpool",
+        "postcode": "11701"
+      },
+      "img": {
+        "thumbnail": "https://i.pinimg.com/736x/5c/e9/fa/5ce9fa05907a5229f69cc1a05b47a03c--property-for-sale.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 800000,
+      "type": "Terraced",
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "garden": true,
+      "timeUploaded": "Monday, 12 February 2024 at 08:21:53",
+      "id": "884c"
+    },
+    {
+      "property_id": 5,
+      "description": "Tucked away in a picturesque mountain village, this inviting chalet is the ultimate winter getaway. Featuring a stone fireplace, hot tub, and ski-in/ski-out access, it's an ideal retreat for outdoor enthusiasts seeking adventure on the slopes.",
+      "address": {
+        "firstLine": "123 Main St",
+        "city": "Liverpool",
+        "postcode": "54321"
+      },
+      "img": {
+        "thumbnail": "https://i.pinimg.com/originals/13/24/fd/1324fd77567454d7179c3f262b337633.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 250000,
+      "type": "Semi-Detached",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "garden": false,
+      "timeUploaded": "Tuesday, 13 February 2024 at 19:21:53",
+      "id": "ad40"
+    },
+    {
+      "property_id": 6,
+      "description": " Situated in a historic district, this elegant brownstone combines old-world charm with modern amenities. With its original architectural details, gourmet kitchen, and private courtyard garden, it's a sophisticated urban retreat for those who appreciate timeless elegance.",
+      "address": {
+        "firstLine": "Maple Avenue",
+        "city": "Birmingham",
+        "postcode": "90120"
+      },
+      "img": {
+        "thumbnail": "https://i.pinimg.com/originals/bf/53/e5/bf53e5d610e96b90f9c731cf72bf5624.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 420000,
+      "type": "Terraced",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "garden": true,
+      "timeUploaded": "Tuesday, 13 February 2024 at 15:21:53",
+      "id": "f842"
+    },
+    {
+      "property_id": 7,
+      "description": "Surrounded by majestic desert landscapes, this sprawling estate offers unparalleled privacy and luxury. With a sparkling pool, lush gardens, and outdoor entertainment spaces, it's an oasis of tranquility for those seeking relaxation under the desert sun.",
+      "address": {
+        "firstLine": "Elm Street",
+        "city": "Birmingham",
+        "postcode": "45678"
+      },
+      "img": {
+        "thumbnail": "https://i.pinimg.com/originals/b6/a2/de/b6a2de9097a64411d5c4a80ef9a6b638.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 300000,
+      "type": "Detached",
+      "bedrooms": 6,
+      "bathrooms": 4,
+      "garden": false,
+      "timeUploaded": "Tuesday, 13 February 2024 at 14:21:53",
+      "id": "e5be"
+    },
+    {
+      "property_id": 8,
+      "description": "Tucked away in a secluded forest, this cozy cabin offers a peaceful escape from everyday life. With its wood-paneled interiors, stone fireplace, and scenic views, it's the perfect retreat for nature lovers seeking solace in the mountains.",
+      "address": {
+        "firstLine": "Evergreen Terrace",
+        "city": "Birmingham",
+        "postcode": "12345"
+      },
+      "img": {
+        "thumbnail": "https://i.pinimg.com/originals/32/45/c2/3245c243a6bfdf746fedf5dbc229fee2.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 500000,
+      "type": "Detached",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "garden": true,
+      "timeUploaded": "Tuesday, 13 February 2024 at 16:21:53",
+      "id": "39f7"
+    },
+    {
+      "property_id": 9,
+      "description": "Located steps away from the sandy shores, this modern condo offers breathtaking ocean views and resort-style amenities. With its sleek design, gourmet kitchen, and private balcony, it's an ideal coastal retreat for those seeking luxury by the sea.",
+      "address": {
+        "firstLine": "742 Evergreen Terrace",
+        "city": "Birmingham",
+        "postcode": "12345"
+      },
+      "img": {
+        "thumbnail": "https://i.pinimg.com/originals/39/23/66/3923666fa87fc303a79c9b9706457663.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 1000000,
+      "type": "Semi-Detached",
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "garden": true,
+      "timeUploaded": "Tuesday, 13 February 2024 at 13:21:53",
+      "id": "15b0"
+    },
+    {
+      "property_id": 10,
+      "description": "Surrounded by rolling vineyards and manicured gardens, this stately estate offers a taste of refined country living. With its wine cellar, outdoor dining area, and sweeping views, it's a dream destination for wine enthusiasts and connoisseurs of fine living.",
+      "address": {
+        "firstLine": "Sherlock Holmes St",
+        "city": "London",
+        "postcode": "WC2N 5DU"
+      },
+      "img": {
+        "thumbnail": "https://i.pinimg.com/originals/56/4b/a5/564ba5a8264efa1d8ceba12814774eae.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 1800000,
+      "type": "Semi-Detached",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "garden": false,
+      "timeUploaded": "Tuesday, 13 February 2024 at 12:21:53",
+      "id": "de51"
+    },
+    {
+      "property_id": 11,
+      "description": "Situated in a vibrant urban neighborhood, this stylish apartment showcases Art Deco design elements and contemporary flair. With its high ceilings, designer furnishings, and city views, it's a chic retreat for those who appreciate architectural elegance and city living.",
+      "address": {
+        "firstLine": "221B Baker Street",
+        "city": "London",
+        "postcode": "NW1 6XE"
+      },
+      "img": {
+        "thumbnail": "https://i.pinimg.com/736x/3c/21/a1/3c21a1e9660bec2c01d6cd4c77692a3f.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 2500000,
+      "type": "Terraced",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "garden": true,
+      "timeUploaded": "Monday, 12 February 2024 at 11:17:53",
+      "id": "cbe6"
+    },
+    {
+      "property_id": 12,
+      "description": "Hidden away on a secluded island, this charming bungalow offers a tranquil escape surrounded by lush tropical foliage and pristine beaches. With its hammock-strewn veranda, outdoor shower, and ocean breezes, it's a slice of paradise for those seeking relaxation in nature.",
+      "address": {
+        "firstLine": "1313 Mockingbird Lane",
+        "city": "London",
+        "postcode": "66666"
+      },
+      "img": {
+        "thumbnail": "https://i.pinimg.com/originals/4b/69/90/4b6990b55cd6aa745c23f6a22cfbbd52.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 1200000,
+      "type": "Terraced",
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "garden": true,
+      "timeUploaded": "Tuesday, 13 February 2024 at 11:19:53",
+      "id": "8802"
+    },
+    {
+      "property_id": 13,
+      "description": "Perched on the edge of a scenic canyon, this modern retreat offers stunning mountain vistas and access to miles of hiking trails. With its expansive deck, hot tub, and floor-to-ceiling windows, it's an ideal haven for outdoor enthusiasts seeking adventure and rejuvenation.",
+      "address": {
+        "firstLine": "Elm Street",
+        "city": "Manchester",
+        "postcode": "45678"
+      },
+      "img": {
+        "thumbnail": "https://media.rightmove.co.uk/101k/100816/73152309/100816_843_IMG_18_0000.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 300000,
+      "type": "Terraced",
+      "bedrooms": 6,
+      "bathrooms": 4,
+      "garden": false,
+      "timeUploaded": "Wednesday, 14 February 2024 at 11:21:53",
+      "id": "bf8a"
+    },
+    {
+      "property_id": 14,
+      "description": "Occupying the top floor of a prestigious skyscraper, this luxurious penthouse offers unrivaled city views and opulent amenities. With its spacious layout, designer finishes, and rooftop terrace with a private pool, it's a sanctuary for those who appreciate the finer things in life.",
+      "address": {
+        "firstLine": "1 Mayfair street",
+        "city": "Manchester",
+        "postcode": "95014"
+      },
+      "img": {
+        "thumbnail": "https://i.pinimg.com/originals/57/a0/c2/57a0c24cfe835890f1484077428570b3.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "price": 1000000000,
+      "type": "Detached",
+      "bedrooms": 20,
+      "bathrooms": 7,
+      "garden": false,
+      "timeUploaded": "Friday, 16 February 2024 at 11:21:53",
+      "id": "dbbc"
+    },
+    {
+      "id": "9a28",
+      "property_id": 15,
+      "address": {
+        "firstLine": "Banana street",
+        "city": "Manchester",
+        "postcode": "M187ER"
+      },
+      "img": {
+        "thumbnail": "https://i.pinimg.com/originals/63/97/a8/6397a883457fb718e3a9f909b63973f3.jpg",
+        "img2": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_01_0001.jpeg",
+        "img3": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_00_0001.jpeg",
+        "img4": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img5": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_02_0001.jpeg",
+        "img6": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_04_0001.jpeg",
+        "img7": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_05_0001.jpeg",
+        "img8": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_06_0001.jpeg",
+        "img9": "https://media.rightmove.co.uk/80k/79099/141476393/79099_RX281501_IMG_07_0001.jpeg"
+      },
+      "description": "",
+      "price": "250000",
+      "type": "Detached",
+      "bedrooms": "5",
+      "bathrooms": "4",
+      "garden": true,
+      "timeUploaded": "Tuesday, 13 February 2024 at 11:21:53"
+    }
+  ]
+}

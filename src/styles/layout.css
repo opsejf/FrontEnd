@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+/* General CSS styles for the website */
+/* Common attributes are added in groups at the top */
+/* Specific attributes are added toward the end of the page */
+@media screen and (max-width: 600px) {
+    .navBar li:not(:first-child) {display: none;}
+    .navBar li.icon {
+        float: right;
+        display: block;
+    }
+}
+
+.navBar .icon {
+    display: none;
+}
+
+.property-info {
+    display: flex;
+    align-items: center;
+    padding: 1em;
+    gap: 20px;
+    border-top: 2px solid rgb(222,222,226);
+    border-bottom: 2px solid rgb(222,222,226);
+    font-weight: 600;
+    flex-wrap: wrap;
+}
+
+
+@media screen and (max-width: 768px) {
+    .navBar.responsive li:not(:first-child, :nth-child(3)) {position: relative;}
+    /* .navBar.responsive {padding-top: 0.70em;} */
+    .navBar.responsive .icon {
+        display: block;
+        float: right;
+    }
+    .narBar.responsive li.img-container {
+        width: 38px;
+    }
+    #navBar.navBar.responsive {
+        align-content: flex-start;
+    }
+    .navBar.responsive li:not(:first-child, :nth-child(2)) {
+        display: flex;
+        flex-direction: row;
+        text-align: left;
+        max-height: 10%;
+        min-width: 100%;
+    } 
+    .layoutHeader.responsive {
+        display: flex;
+        min-height: 100%;
+        }
+
+    }
+
+.fa {
+    color: black;
+}
+
+
+html, body, #root, .App, .App-header {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    font-family: "Poppins";
+}
+
+nav, main {
+    display: flex;
+    
+}
+
+header {
+    border-bottom: 4px solid rgba(0, 0, 0, 0.1);
+
+}
+
+.App-header {
+    flex-direction: column;
+    
+}
+
+.delete-btn {
+    width: min-content;
+    height: min-content;
+}
+
+.layoutHeader {
+    min-height: 10%;
+    background-color: whitesmoke;
+}
+
+.colour {
+    background-color: #292950;
+}
+
+header, footer, li, a {
+    display: flex;
+}
+
+.img-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    transform: translate(-50%, -50%);
+
+}
+.carousel-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 6em;
+    background-color: white;
+}
+
+nav {
+    flex:auto;
+    min-height: 100%;
+    background-color: WHITE;
+    color: whitesmoke;
+    list-style: none;
+    text-decoration: none;
+    gap: 1em;
+    padding: 0.5em 2em 0 1em; 
+    align-items: center;
+    text-wrap: nowrap;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+nav li:nth-child(3) {
+    display: flex;
+    flex-grow: 1;
+    text-align: left;
+    width: max-content;
+}
+
+li > a {
+    font-weight: 700;
+}
+
+a {
+    border-radius: 0.5em;
+    padding: 0.5em;
+    font-weight: 500;
+    color: #262637;
+    text-decoration: none;
+}
+
+nav > li a:hover {
+    background-color: #E1F0DA;
+    text-underline-offset: 0.3em;
+}
+div.alice-carousel {
+    margin: 0;
+    padding: 10% 20% 0 20%;
+    border-radius: 1em;
+}
+li a:hover {
+    background-color: #00deb6;
+    text-decoration: underline;
+    text-underline-offset: 0.3em;
+}
+
+
+main {
+    flex: auto;
+    background-color: white;
+    padding: 0 15% 0 15%;
+}
+
+.sectionOne {
+    flex: auto;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+div.footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 1em;
+    align-items: center;
+    background-color: white;
+    padding-top: 5em;
+}
+
+div.icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3.2em;
+    width: 3.2em;
+} 
+
+div.icons a > img {
+    height: 3em;
+    width: 3.2em;
+    /* padding-right: 8px; */
+    filter: brightness(0) invert(0);
+    transition: 0.1s;
+}
+div.icons a > img:hover {
+    filter: brightness(0) invert(0.25);
+    height: 3.2em;
+    width: 3.2em;
+}
+
+.footerText {
+    justify-content: center;
+    color: #262637;
+}

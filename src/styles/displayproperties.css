@@ -1,0 +1,354 @@
+
+/*.property-details {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 5em;
+    flex-wrap: wrap;
+    border-style: solid;
+}
+
+.property-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    width: 40%;
+    border-style: dotted;
+    padding: 2rem;
+    grid-template-columns: 300px 1fr;
+    gap: 1rem;
+    float: left;
+}
+
+.property-img {
+    width: 20em;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    
+    border-style: groove;
+    
+}
+
+.property-card li {
+    list-style-type: none;
+    margin-top: 0.8em;
+    border-style: dashed;
+    
+}
+
+.property-details {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(2, 100px);
+    grid-template-rows: repeat(2, 100px);
+     gap: 20px;
+    border-style: groove;
+}
+
+
+.property-text {
+    float: right;
+    flex: 1;
+    border-style: dashed;
+    
+}
+.property-details {
+    list-style: none;
+    padding: 0;
+    border-style: dashed;
+  }
+  
+  .property-card {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+    margin-bottom: 20px; 
+    text-decoration: none; 
+    border-style: dashed;
+  
+  .property-img {
+    width: 100px; 
+    height: auto;
+    border-radius: 8px; 
+    border-style: dashed;
+}  
+*/
+
+.empty {
+    width: 50%;
+    text-align: center;
+
+}
+
+.property-item {
+    width: 50%;
+    margin-top: 0;
+    margin: 0;
+}
+
+.address {
+    width: 30%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    margin-left: 0;
+}
+
+.price {
+    width: 30%;
+    text-align:end;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    margin-left: 0;
+}
+
+.type {
+    width: 30%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    margin-left: 0;
+}
+
+
+.property-details {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 1em;
+    flex-wrap: wrap;
+    padding-right: 20%;  
+    padding-left: 20%;      
+}
+
+
+.property-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    gap: 20px; 
+    margin-bottom: 10px; 
+    text-decoration: none; 
+    border: solid #00deb6;
+    border-radius: 15px;
+    position: relative;
+    width: -webkit-fill-available;
+    
+}
+
+.imagelink {
+    vertical-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.property-img {
+    max-width: 100%; /* Adjust this as needed to fit the image properly within the card */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 5px;
+    vertical-align: center;    
+}
+
+.property-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    margin-left: 0;
+    
+}
+
+.property-card li {
+    list-style-type: none;
+    /* margin-top: 1em; */
+    padding: 10%;
+   
+
+}
+.property-card:hover{
+    background-color:rgb(232, 255, 255)
+}
+.property-card icon-container {
+    margin-top: auto; 
+    display: flex; 
+    object-fit: contain;
+    position: relative;
+    
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    
+    
+}
+.icon{
+
+    /*position: absolute;
+    bottom: 5px;  Adjust based on exact positioning you desire */
+    bottom: 5px;
+    left: 5px; /* Adjust based on exact positioning you desire */
+    width: 20px; /* Example size, adjust as needed */
+    height: 20px;
+    object-fit: scale-down;
+    margin-left: 10px;
+
+    }
+.icon-container {
+    display: flex;
+    justify-content: flex-end; 
+    margin-left: auto; 
+}
+.icon-clicked{
+    color: blueviolet;
+    width: 1px
+
+}
+#heart.icon{
+    display: flex;
+        border-radius: 20px;
+
+
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+}
+
+.text-container li {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.deletebutton li {
+    display:inline-block;
+    align-items: bottom;
+}
+
+
+
+
+.filter-test li {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.filter-list {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    text-align: center;
+    align-items: center;
+}
+
+.sort{
+    margin-top: 1em;
+    gap: 0.5em;
+    align-items: center;
+    text-align: center;
+}
+
+.sort > select{
+    padding: 0.5em;
+    border-radius: 25px;
+}
+
+.results {
+    text-align: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px){
+
+    .empty{
+        display: none;
+    }
+    .property-card{
+        flex-direction: column;
+        align-items: center;
+    }
+    .property-img .property-card {
+        width: 50%; 
+        margin-top: 10rem;
+        vertical-align: center;
+        align-items: center;
+        position: absolute;
+        transform: translate(-20%, -20%);
+        font-size: 18px;
+        
+
+    }
+
+    .text-container{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .text-container li{
+        text-align: center;
+        align-items: center;
+    }
+    .property-text {
+        margin-top: 1rem;
+        text-align: center;
+        font-size: 18px;
+    }
+    .address,.type {
+        width: 30%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center; 
+        margin-left: 0;
+        font-size: 18px;
+    }
+    
+    .price {
+        width: 30%;
+        text-align:end;
+        display: flex;
+        flex-direction: column;
+        justify-content: center; 
+        margin-left: 0;
+        font-size: 18px;
+    }
+    
+   
+    .icon-container {
+        display: flex;
+        justify-content: flex-end; 
+        margin-left: 0;
+        flex-direction: row;
+        padding: 0%;
+        max-width: -webkit-fill-available;
+        width: 100%;
+
+    }
+    #heart {
+        /* margin-left: 700%;  */
+        display: flex;
+        border-radius: 20px;
+
+    } 
+    #phone,  #eamil {
+        /* margin-right: 200px;  */
+        align-items: center;
+
+    }
+    
+    #spacer{
+        width: 600%;
+    }
+}
+
+
+

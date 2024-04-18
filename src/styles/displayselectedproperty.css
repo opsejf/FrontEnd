@@ -1,0 +1,78 @@
+.sliderimg {
+    width: 100%;
+}
+
+.property-desc {
+    text-align: left;
+    font-weight: 500;
+}
+
+.carousel-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 6em;
+    background-color: white;
+}
+
+.bed-icon, .bath-icon, .share-icon, .fav-icon {
+    width: 2em;
+}
+
+.share-icon {
+    border-left: 1px solid;
+    padding-left: 30px;
+}
+
+.share-icon, .fav-icon {
+    cursor: pointer;
+}
+
+.sp-icon-container {
+    display: flex;
+    justify-content: flex-end;
+    gap: 35px;
+}
+
+.new-home {
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    width: 7em;
+    background-color: #0C7A45;
+    color: white;
+    margin-bottom: -3em;
+    
+}
+
+.address-info {
+    display: flex;
+    gap: 5px;
+    font-weight: 600;
+    margin-bottom: -1em;
+}
+
+.price-info {
+    display: flex;
+    font-weight: 600;
+}
+
+.date-info {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 600;
+}
+
+.property-info {
+    display: flex;
+    align-items: center;
+    padding: 1em;
+    gap: 20px;
+    border-top: 2px solid rgb(222,222,226);
+    border-bottom: 2px solid rgb(222,222,226);
+    font-weight: 600;
+}
+
+/* .alice-carousel__prev-btn,
+.alice-carousel__next-btn {
+    margin-right: 10em;
+} */
