@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5b36644.css",
+    "main.js": "/static/js/main.bc02cd91.js",
+    "static/js/592.e7f11c1f.chunk.js": "/static/js/592.e7f11c1f.chunk.js",
+    "static/media/homeImage.jpg": "/static/media/homeImage.9701169d992575bccac6.jpg",
+    "static/media/insta.png": "/static/media/insta.fe5c5dbaf8f6296ec7a7.png",
+    "static/media/man3.jpg": "/static/media/man3.6bc69f4a1aa3c57f7f9d.jpg",
+    "static/media/man4.jfif": "/static/media/man4.14030487802cb2d7d77f.jfif",
+    "static/media/woman1.jpg": "/static/media/woman1.fb4061320ce9c9871d5d.jpg",
+    "static/media/woman2.jfif": "/static/media/woman2.fcd9c17e1eb4f0502220.jfif",
+    "static/media/man2.jfif": "/static/media/man2.19e4bc0d26c06450f1dd.jfif",
+    "static/media/phone.png": "/static/media/phone.7f812f281c2c8f086c7e.png",
+    "static/media/x.png": "/static/media/x.d67fc83e74561d99067b.png",
+    "static/media/email.png": "/static/media/email.bc0568ce63ae1a5f7407.png",
+    "static/media/maletemplate.jpg": "/static/media/maletemplate.4c6071a3268625ae7186.jpg",
+    "static/media/femaletemplate.jpg": "/static/media/femaletemplate.6ebccfe303a9acbdbb33.jpg",
+    "static/media/favourite.png": "/static/media/favourite.94afd2ced30e56077b6a.png",
+    "static/media/facebook.png": "/static/media/facebook.b6ca03b7101bc13ef76f.png",
+    "static/media/heart.png": "/static/media/heart.021ea85569e465ed8685.png",
+    "index.html": "/index.html",
+    "main.d5b36644.css.map": "/static/css/main.d5b36644.css.map",
+    "main.bc02cd91.js.map": "/static/js/main.bc02cd91.js.map",
+    "592.e7f11c1f.chunk.js.map": "/static/js/592.e7f11c1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5b36644.css",
+    "static/js/main.bc02cd91.js"
+  ]
+}
