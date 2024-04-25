@@ -27,8 +27,7 @@ export default function (props){
         }
     
 
-
-        fetch('http://localhost:8080/create', {
+        fetch('http://' + `${process.env.REACT_APP_BACKENDAPI}`+'/create', {
             method: 'POST',
             headers: {
                 'Accept': 'application/json',
@@ -39,6 +38,18 @@ export default function (props){
         .then(Response => Response.json())
         .then(dataItem => console.log(dataItem))
         .catch((error) =>console.error('error:',error))
+
+//        fetch({import.meta.env.REACT_APP_BACKENDAPI}'/create', {
+//            method: 'POST',
+//            headers: {
+//                'Accept': 'application/json',
+//                'Content-Type': 'application/json',
+//            },
+//            body: JSON.stringify(dataItem),
+//        })
+//        .then(Response => Response.json())
+//        .then(dataItem => console.log(dataItem))
+//        .catch((error) =>console.error('error:',error))
 
         window.location.reload();
 

@@ -10,7 +10,7 @@ const DisplaySellers = (props) => {
         useEffect(() => {
                const fetchData = async () => {
                    try {
-                       const response = await fetch('http://localhost:8080/getAllSellers');
+                       const response = await fetch('http://' + `${process.env.REACT_APP_BACKENDAPI}` + '/getAllSellers');
                        if (!response.ok) {
                            throw new Error('Failed to fetch data');
                        }
@@ -31,7 +31,6 @@ const DisplaySellers = (props) => {
             
             <h1>Find A {props.user}</h1>
             <br />
-
             <div className = "scroll">
                 <table name="sellerData">
                     <thead>

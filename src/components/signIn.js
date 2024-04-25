@@ -15,7 +15,7 @@ export default function SignIn({setToken}){
 
 
 
-        const response =  axios.post("http://localhost:8080/authenticate",
+        const response =  axios.post('http://' + `${process.env.REACT_APP_BACKENDAPI}`+"/authenticate",
         {email: email,
         password: password})
         .then((response) => {

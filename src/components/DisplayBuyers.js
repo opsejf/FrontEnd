@@ -10,7 +10,7 @@ const DisplayBuyers = (props) => {
         useEffect(() => {
                const fetchData = async () => {
                    try {
-                       const response = await fetch('http://localhost:8080/buyers');
+                       const response = await fetch("http://" + `${process.env.REACT_APP_BACKENDAPI}`+'/buyers');
                        if (!response.ok) {
                            throw new Error('Failed to fetch data');
                        }

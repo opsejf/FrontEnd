@@ -35,7 +35,7 @@ export default function(){
 
         // sending new buyer details to be stored in database
 
-        fetch("http://localhost:8080/create-buyer", {
+        fetch("http://" +`${process.env.REACT_APP_BACKENDAPI}` + "/create-buyer", {
         method: "post",
         headers: {
             'Accept': 'application/json',

@@ -81,7 +81,7 @@ export default () => {
         }
         console.log(propertyDataItem);
 
-        fetch("http://localhost:8080/create-property", {
+        fetch('http://' + `${process.env.REACT_APP_BACKENDAPI}` +"/create-property", {
             method: "post",
             headers: {
                 'Accept': 'application/json',
